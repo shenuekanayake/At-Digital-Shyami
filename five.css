@@ -1,0 +1,591 @@
+.px .faqs {
+    margin: 0 21px 60px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(100% - 41px);
+    box-sizing: border-box;
+  }
+  .px .frequently-asked-questions {
+    margin-bottom: 28px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-h-3-poppins-27-px-semi-bold-font-family, 'Poppins');
+    font-weight: var(--poppins-h-3-poppins-27-px-semi-bold-font-weight, 600);
+    font-size: var(--poppins-h-3-poppins-27-px-semi-bold-font-size, 27px);
+    letter-spacing: var(--poppins-h-3-poppins-27-px-semi-bold-letter-spacing, 0.4px);
+    line-height: var(--poppins-h-3-poppins-27-px-semi-bold-line-height, 1.222);
+    color: #6B3CC9;
+  }
+  .px .frame-12527 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .faqs-1 {
+    border-radius: 7px;
+    background: #FAF8FF;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .faqs-2 {
+    border-radius: 7px;
+    background: #FAF8FF;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 24px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .faqs-3 {
+    border-radius: 7px;
+    background: #FAF8FF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 24px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .hero-image {
+    position: absolute;
+    left: 0px;
+    top: -1px;
+    right: 0px;
+    bottom: 0.3px;
+    height: 100%;
+  }
+  .px .andy-kelly-0-evh-mvq-l-9-gunsplash-2 {
+    background: url('../assets/images/andyKelly0EvhMvqL9Gunsplash2.jpeg');
+    position: absolute;
+    top: -105px;
+    right: -87.2px;
+    width: 462.2px;
+    height: 327.5px;
+  }
+  .px {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .px .top-navigation {
+    background: #6B3CC9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 14.9px 20px 26px 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 238.9px;
+    height: 36.1px;
+    box-sizing: border-box;
+  }
+  .px .white-logo {
+    width: 238.9px;
+    height: 36.1px;
+  }
+  .px .group-2 {
+    border-radius: 5px;
+    margin: 11.6px 0 0.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 31px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .px .rectangle-1 {
+    border-radius: 5px;
+    background: #FFFFFF;
+    margin-bottom: 6px;
+    width: 31px;
+    height: 4px;
+  }
+  .px .rectangle-2 {
+    border-radius: 5px;
+    background: #FFFFFF;
+    margin-bottom: 6px;
+    width: 31px;
+    height: 4px;
+  }
+  .px .rectangle-3 {
+    border-radius: 5px;
+    background: #FFFFFF;
+    width: 31px;
+    height: 4px;
+  }
+  .px .hero-section {
+    position: relative;
+    width: 375px;
+    height: 218px;
+  }
+  .px .frame-497 {
+    background: linear-gradient(256.73deg, #1CBDDD, #4DCA79), linear-gradient(#FFFFFF, #FFFFFF);
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0 32px 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .we-crush-your-competitors-goals-and-sales-records-without-the-bs {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: -0.7px;
+    line-height: 1;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .button {
+    border-radius: 4px;
+    background: #F28D35;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 12px 20.3px 12px 20px;
+    box-sizing: border-box;
+  }
+  .px .frame-498 {
+    margin: 0 21px 60px 21px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(100% - 42px);
+    box-sizing: border-box;
+  }
+  .px .image-2 {
+    background: url('desktop.png') 50% / cover no-repeat;
+    margin: 0 29px 20px 29px;
+    width: 275px;
+    height: 275.8px;
+  }
+  .px .frame-92 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .web-mobile-app-development {
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-h-3-poppins-27-px-semi-bold-font-family, 'Poppins');
+    font-weight: var(--poppins-h-3-poppins-27-px-semi-bold-font-weight, 600);
+    font-size: var(--poppins-h-3-poppins-27-px-semi-bold-font-size, 27px);
+    letter-spacing: var(--poppins-h-3-poppins-27-px-semi-bold-letter-spacing, 0.4px);
+    line-height: var(--poppins-h-3-poppins-27-px-semi-bold-line-height, 1.222);
+    color: #6B3CC9;
+  }
+  .px .your-web-and-mobile-apps-are-pieces-of-the-puzzle-to-grow-your-business-we-use-frameworks-which-tailor-content-and-engagement-methods-to-respond-to-different-intents-shown-by-your-potential-customers-who-interact-with-your-business-online {
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+  .px .button-1 {
+    border-radius: 4px;
+    background: #F28D35;
+    padding: 12px 20px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .frame-500 {
+    margin: 0 20.4px 60.2px 20.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(100% - 40.7px);
+    box-sizing: border-box;
+  }
+  .px .image-1 {
+    background: url('search.png') 50% / cover no-repeat;
+    margin: 0 29.6px 20px 29.6px;
+    width: 275px;
+    height: 276px;
+  }
+  .px .frame-921 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .digital-strategy-consulting {
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--poppins-h-3-poppins-27-px-semi-bold-font-family, 'Poppins');
+    font-weight: var(--poppins-h-3-poppins-27-px-semi-bold-font-weight, 600);
+    font-size: var(--poppins-h-3-poppins-27-px-semi-bold-font-size, 27px);
+    letter-spacing: var(--poppins-h-3-poppins-27-px-semi-bold-letter-spacing, 0.4px);
+    line-height: var(--poppins-h-3-poppins-27-px-semi-bold-line-height, 1.222);
+    color: #6B3CC9;
+  }
+  .px .your-digital-strategy-should-complement-the-overall-marketing-strategy-of-the-company-in-online-marketing-each-component-will-never-work-in-isolation-and-every-business-needs-adifferent-mix-we-provide-aclear-concept-and-strategic-overview-to-find-the-most-efficient-model-for-your-business {
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+  }
+  .px .button-2 {
+    border-radius: 4px;
+    background: #F28D35;
+    padding: 12px 20px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .footer {
+    background: #6B3CC9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 28.9px 20px 20px 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .frame-503 {
+    margin: 0 9.7px 40px 0;
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 9.7px);
+    box-sizing: border-box;
+  }
+  .px .frame-5001 {
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .logo-1 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    width: 238.9px;
+    height: 36.1px;
+    box-sizing: border-box;
+  }
+  .px .white-logo-1 {
+    width: 238.9px;
+    height: 36.1px;
+  }
+  .px .your-goal-is-our-target-not-anything-in-between-we-use-online-marketing-platforms-and-tools-to-achieve-single-objective-your-business-results {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .px .frame-502 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .frame-501 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .our-technologies {
+    margin-bottom: 12px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 21px;
+    color: #FFFFFF;
+  }
+  .px .frame-5011 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .react-js {
+    margin-bottom: 12px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .gatsby {
+    margin: 0 1.8px 12px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .next-js {
+    margin: 0 6.9px 12px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .node-js {
+    margin-right: 2.4px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .frame-496 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .our-services {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 21px;
+    color: #FFFFFF;
+  }
+  .px .frame-5012 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .social-media-marketing {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .web-mobile-app-development-1 {
+    margin-bottom: 12px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .data-analytics {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .frame-505 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .line-6 {
+    background: #FFFFFF;
+    margin-bottom: 7px;
+    width: 335px;
+    height: 1px;
+  }
+  .px .frame-504 {
+    margin-right: 0.7px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .px .privacy-policy {
+    margin-right: 16.8px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .line-7 {
+    background: #FFFFFF;
+    margin: 0.5px 15px 0.5px 0;
+    width: 1px;
+    height: 16px;
+  }
+  .px .terms-conditions {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .px .frame-12526 {
+    margin-bottom: 13px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .px .what-is-webflow-and-why-is-it-the-best-website-builder {
+    margin-right: 58.6px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #6B3CC9;
+  }
+  .px .vector-18 {
+    background: #6B3CC9;
+    width: 14px;
+    height: 2px;
+  }
+  .px .vitae-congue-eu-consequat-ac-felis-placerat-vestibulum-lectus-mauris-ultrices-cursus-sit-amet-dictum-sit-amet-justo-donec-enim-diam-porttitor-lacus-luctus-accumsan-tortor-posuere {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: var(--neutral-600, #6F6C90);
+  }
+  .px .frame-35623 {
+    margin: 12px 0 70px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 2px;
+    flex-grow: 1;
+    flex-basis: 14px;
+    box-sizing: border-box;
+  }
+  .px .what-is-webflow-and-why-is-it-the-best-website-builder-1 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .px .group-35621 {
+    width: 14px;
+    height: 14px;
+  }
+  .px .frame-35622 {
+    margin: 8px 0 90px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14px;
+    height: 14px;
+    box-sizing: border-box;
+  }
+  .px .what-is-webflow-and-why-is-it-the-best-website-builder-2 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .px .group-356211 {
+    width: 14px;
+    height: 14px;
+  }
+  .px .frame-356221 {
+    margin: 8px 0 90px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14px;
+    height: 14px;
+    box-sizing: border-box;
+  }
+  .px .get-free-consultation {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .px .get-free-consultation-1 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .px .get-free-consultation-2 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
